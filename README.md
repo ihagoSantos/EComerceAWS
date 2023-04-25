@@ -1,6 +1,6 @@
-# Welcome to your CDK TypeScript project
+# CDK TypeScript project
 
-This is a blank project for CDK development with TypeScript.
+This is a project for studying the creation of serverless applications through aws cdk and cloud formation.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
